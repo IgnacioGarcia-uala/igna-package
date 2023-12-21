@@ -1,4 +1,4 @@
-module github.com/IgnagioGarcia-uala/igna-package/dynamo
+module github.com/IgnacioGarcia-uala/igna-package/dynamo
 
 go 1.18
 

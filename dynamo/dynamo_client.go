@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/IgnagioGarcia-uala/igna-package/dynamo/pkg/models"
-	"github.com/IgnagioGarcia-uala/igna-package/dynamo/pkg/service"
+	"github.com/IgnacioGarcia-uala/igna-package/dynamo/pkg/models"
+	"github.com/IgnacioGarcia-uala/igna-package/dynamo/pkg/service"
 	"github.com/aws/aws-sdk-go-v2/config"
 	ddb "github.com/aws/aws-sdk-go-v2/service/dynamodb"
 	"github.com/aws/aws-sdk-go-v2/service/dynamodb/types"

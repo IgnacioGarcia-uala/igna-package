@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 
-	"github.com/IgnagioGarcia-uala/igna-package/dynamo/pkg/models"
+	"github.com/IgnacioGarcia-uala/igna-package/dynamo/pkg/models"
 	"github.com/aws/aws-sdk-go-v2/feature/dynamodb/attributevalue"
 	ddb "github.com/aws/aws-sdk-go-v2/service/dynamodb"
 	"github.com/aws/aws-sdk-go-v2/service/dynamodb/types"
