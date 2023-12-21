@@ -1,4 +1,4 @@
-module github.com/Bancar/uala-labssupport-go-core/dynamo
+module github.com/IgnagioGarcia-uala/igna-package/dynamo
 
 go 1.18
 
